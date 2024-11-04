@@ -1,0 +1,16 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+/* .d-flex{
+    position: fixed;
+} */
+
+/* img{
+    display: grid;
+} */
+ .btn::before:hover{
+    color: white;
+ }
