@@ -11,6 +11,19 @@
 /* img{
     display: grid;
 } */
- .btn::before:hover{
-    color: white;
- }
+ 
+/* phone screens */
+/* @media(max-width:767px){
+    {
+    grid-template-columns: 1fr ;
+    }
+} */
+
+/* tablet screens */
+
+/* @media (min-width: 768px) and (max-width:1023px){
+    #movies-container{
+    grid-template-columns: 1fr 1fr 1fr 1fr ;
+    }
+} */
+
